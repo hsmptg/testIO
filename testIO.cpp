@@ -51,7 +51,8 @@ void setup() {
 
 	lcd.printAt(0, 0, "IP: 192.168.102.123");
 
-	lcd.print2At(2, 2, "X: 123");
+//	lcd.print2At(2, 2, "X: 123");
+	lcd.print2At(2, 2, "X: ABC");
 	lcd.print2At(4, 2, "Y:  34");
 	lcd.print2At(6, 2, "Z: 240");
 
